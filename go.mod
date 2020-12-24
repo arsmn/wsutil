@@ -1,4 +1,4 @@
-module github.com/arsmn/ws-util
+module github.com/arsmn/wsutil
 
 go 1.15
 
